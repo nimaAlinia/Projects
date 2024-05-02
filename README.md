@@ -1,6 +1,8 @@
 # newPixie
 The project source codes include two parts: 1) offline part 2) online part.
+
 First, run the codes of the offline part so that the files required for the offline part are created and saved.
+
 Then run the online part and use the created files in the offline part and see the results.
 
 pin-image dataset : https://drive.google.com/file/d/1-UEzCarSgQo6ebLNeSQiXmCSy1PMMT_o/view?usp=sharing 
